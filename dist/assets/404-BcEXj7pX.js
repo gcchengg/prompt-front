@@ -1,0 +1,1 @@
+import{t as e}from"./react-vendor-ITy80ZME.js";var t=e();function n(){return(0,t.jsx)(`div`,{children:`404`})}export{n as default};
